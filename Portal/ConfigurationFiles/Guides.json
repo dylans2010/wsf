@@ -1,11 +1,17 @@
 [
   {
     "contentURL" : "https:\/\/github.com\/WSF-Team\/WSF\/blob\/main\/Portal\/Guides\/certificates_information.md",
+    "tags" : [
+      "certificates"
+    ],
     "localizedDescription" : "PLACEHOLDER",
     "localizedName" : "Certificates Information"
   },
   {
     "contentURL" : "https:\/\/github.com\/WSF-Team\/WSF\/blob\/main\/Portal\/Guides\/esign_guide.md",
+    "tags" : [
+      "esign"
+    ],
     "localizedDescription" : "PLACEHOLDER",
     "localizedName" : "ESign Guide"
   },
@@ -20,18 +26,31 @@
     "localizedName" : "Portal Guide"
   },
   {
-    "contentURL" : "https:\/\/github.com\/WSF-Team\/WSF\/blob\/main\/Portal\/Guides\/post_install_notes.md",
-    "localizedDescription" : "PLACEHOLDER",
-    "localizedName" : "Post Install Notes"
-  },
-  {
     "contentURL" : "https:\/\/github.com\/WSF-Team\/WSF\/blob\/main\/Portal\/Guides\/sources.md",
+    "tags" : [
+      "sources",
+      "esign",
+      "feather",
+      "altstore"
+    ],
     "localizedDescription" : "PLACEHOLDER",
     "localizedName" : "Sources"
   },
   {
     "contentURL" : "https:\/\/github.com\/WSF-Team\/WSF\/blob\/main\/Portal\/Guides\/vpn_guide.md",
+    "tags" : [
+      "vpn",
+      "setup"
+    ],
     "localizedDescription" : "PLACEHOLDER",
     "localizedName" : "VPN Guide"
+  },
+  {
+    "contentURL" : "https:\/\/github.com\/WSF-Team\/WSF\/blob\/main\/Portal\/Guides\/post_install_notes.md",
+    "tags" : [
+      "setup"
+    ],
+    "localizedDescription" : "PLACEHOLDER",
+    "localizedName" : "Post Install Notes"
   }
 ]
